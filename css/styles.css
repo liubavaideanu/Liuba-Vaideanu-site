@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+h1 {
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 480%;
+    color: #66BFBF;
+}
+
+#description {
+    color: #66BFBF;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    margin: 0;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+a:hover{
+    color: #EAF6F6;
+}
+
+hr {
+    width: 7%;
+    border-top: dotted #EAF6F6;
+    border-width: 10px 0 0 0;
+    padding-bottom: 50px;
+}
+p {
+    line-height: 2;
+}
+h6 {
+    color: white;
+}
+.top-container {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    background-color: #FFFFFF;
+}
+
+.profile {
+    width: 30%;
+    margin: 60px auto;
+    line-height: 2;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding-top: 50px;
+}
+
+.text-h1 {
+    padding: 80px;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 250px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 150px;
+}
+
+.mavadee {
+    font-size: 10px;
+}
+
+.skills-row {
+    width: 50%;
+    margin: 60px auto 90px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.img-1 {
+    width: 25%;
+    float: left;
+    margin-right: 35px;
+}
+
+.img-2 {
+    width: 25%;
+    float: right;
+    margin-left: 35px;
+}
+
+.text-firs-skill {
+    overflow: hidden;
+}
+
+.contact-me p {
+    width: 50%;
+    margin: 20px auto;
+}
+
+.button {
+    background-color: #66BFBF;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    margin: 40px auto 70px auto;
+    width: 180px;
+    border-radius: 10px;
+}
+
+.button:hover {
+    background: #1f93db;
+    background-image: linear-gradient(to bottom, #1f93db, #135078);
+}
